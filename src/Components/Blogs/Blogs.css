@@ -1,0 +1,14 @@
+.questions div {
+    border: 2px solid skyblue;
+    padding: 4px;
+}
+
+.questions h2 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.questions p {
+    font-size: 18px;
+    padding: 4px;
+}
