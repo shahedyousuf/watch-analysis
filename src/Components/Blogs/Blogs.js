@@ -3,7 +3,7 @@ import './Blogs.css'
 
 const Blogs = () => {
     return (
-        <div className='grid grid-cols-3 gap-4 questions bg-blue-50 p-4 m-4'>
+        <div className='grid grid-col-1 md:grid-cols-3 gap-4 questions bg-blue-50 p-4 m-4'>
             <div>
                 <h2>What is Context API?</h2>
                 <p>Context API allows us to pass data.
