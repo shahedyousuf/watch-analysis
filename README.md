@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Project details
-* Router dom used.
-* Recharts are used.
-* Tailwind CSS framework is used.
+* Routing is an important part of this project.
+* React Recharts are used.
+* Tailwind CSS is used extensively.
 * It's a watch analysis react project.
 
 
