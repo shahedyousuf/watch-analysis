@@ -1,6 +1,6 @@
 # Watch Analysis
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://watch-analysis.netlify.app/
 
 ## Project details
 * Routing is an important part of this project.
