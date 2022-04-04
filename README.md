@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+# Watch Analysis
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project details
+"*" Router dom used.
+"*" Recharts are used.
+"*" Tailwind CSS framework is used.
+"*" It's a watch analysis react project.
+
 
 In the project directory, you can run:
 
