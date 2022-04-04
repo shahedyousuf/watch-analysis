@@ -6,7 +6,7 @@ const Navbar = () => {
     let link = 'font-bold text-blue-400'
 
     return (
-        <div className='flex justify-center gap-4  bg-gray-100 p-4 text-xl font-semibold'>
+        <div className='flex justify-center gap-8  bg-gray-100 p-4 text-2xl font-semibold p-10 w-100'>
             <NavLink to='/' className={({ isActive }) =>
                 isActive ? link : undefined
             }>Home</NavLink>
