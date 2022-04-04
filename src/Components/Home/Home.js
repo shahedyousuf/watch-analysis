@@ -1,9 +1,11 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import useReview from '../hooks/useReview';
 import Reviews from '../Reviews/Reviews';
 
 const Home = () => {
     const [reviews, setReviews] = useReview()
+    const navigate = useNavigate()
     return (
         <div>
             <div className='grid grid-col-1 md:grid-cols-2 items-center gap-4'>
@@ -23,13 +25,13 @@ const Home = () => {
             </div>
             <div>
                 <div>
-                    <h3 className='text-4xl text-blue-500 font-bold mt-6'>Customer reviews</h3>
+                    <h3 className='text-4xl text-blue-500 font-bold m-6'>Customer reviews</h3>
                     {
                         reviews.map(singleReview => <Reviews key={singleReview.id} singleReview={singleReview}></Reviews>).slice(0, 3)
                     }
                 </div>
                 <div>
-                    <button className='bg-blue-500 hover:bg-blue-800 m-4 font-bold rounded-full p-5 text-xl text-white'>See all reviews</button>
+                    <button onClick={() => navigate('/allreviews')} className='bg-blue-500 hover:bg-blue-800 m-6 font-bold rounded-full p-5 text-xl text-white'>See all reviews</button>
                 </div>
             </div>
         </div>
