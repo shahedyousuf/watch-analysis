@@ -13,7 +13,7 @@ const Blogs = () => {
                     This component accepts value.
                     It is efficient in nested functionalities. </p>
             </div>
-            <div className='answers'>
+            <div>
                 <h2>What is Semantic tag?</h2>
                 <p>Semantic tags describes their meaning.
                     Example can be header or footer tags, which shows it's meaning on it's name.
@@ -22,7 +22,7 @@ const Blogs = () => {
                     We can say it makes the code consistent.
                 </p>
             </div>
-            <div className='answers'>
+            <div>
                 <h2>Block vs Inline elements</h2>
                 <p>Block element starts a new line.
                     It takes the full width.

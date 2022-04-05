@@ -17,7 +17,7 @@ const Home = () => {
                         can wear it.
                     </p>
                     <br />
-                    <button className='bg-blue-500 hover:bg-blue-800 m-4 font-bold rounded p-5 text-xl text-white'>Live Demo</button>
+                    <button className='bg-blue-500 hover:bg-blue-800 m-4 font-bold rounded-lg p-5 text-xl text-white'>Live Demo</button>
                 </div>
                 <div>
                     <img className='mx-auto mb-2' src='https://img.freepik.com/free-vector/smart-watch-white-background_1268-98.jpg?w=740&t=st=1649049193~exp=1649049793~hmac=77160fa8b087d605ea23e4ac1c863c891663181cade3e4c20ac48152e550cd33' alt="" />
@@ -31,7 +31,7 @@ const Home = () => {
                     }
                 </div>
                 <div>
-                    <button onClick={() => navigate('/allreviews')} className='bg-blue-500 hover:bg-blue-800 m-6 font-bold rounded-full p-5 text-xl text-white'>See all reviews</button>
+                    <button onClick={() => navigate('/allreviews')} className='bg-blue-500 hover:bg-blue-800 m-4 font-bold rounded-lg p-5 text-xl text-white'>See all reviews</button>
                 </div>
             </div>
         </div>

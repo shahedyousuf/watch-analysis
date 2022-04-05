@@ -1,6 +1,8 @@
 .questions div {
     border: 2px solid skyblue;
     padding: 4px;
+    justify-content: center;
+    align-items: center;
 }
 
 .questions h2 {

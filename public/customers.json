@@ -3,36 +3,36 @@
         "id": 1,
         "name": "Shahed",
         "rating": 5,
-        "review": "It was perfect for me."
+        "review": "It was a perfect choice for me. Hope to get to wear it more."
     },
     {
         "id": 2,
         "name": "Ratul",
         "rating": 4,
-        "review": "It was an awesome product."
+        "review": "It was an awesome product. Updating the products is always nice."
     },
     {
         "id": 3,
         "name": "Hamza",
         "rating": 5,
-        "review": "It was an awesome product."
+        "review": "It was an awesome product. Value for money. Superb!"
     },
     {
         "id": 4,
         "name": "Almhene",
         "rating": 3,
-        "review": "It was an awesome product."
+        "review": "It was fine. Let's see how it goes!"
     },
     {
         "id": 5,
         "name": "Alamin",
         "rating": 3,
-        "review": "It was an average product."
+        "review": "It was an average product. So far good."
     },
     {
         "id": 6,
         "name": "Saddam",
         "rating": 4,
-        "review": "It was an good product."
+        "review": "It's a good product. Watch looks cool."
     }
 ]
