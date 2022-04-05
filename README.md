@@ -3,10 +3,11 @@
 https://watch-analysis.netlify.app/
 
 ## Project details
+* It's a watch analysis react project.
 * Routing is an important part of this project.
 * React Recharts are used.
 * Tailwind CSS is used extensively.
-* It's a watch analysis react project.
+
 
 
 In the project directory, you can run:
